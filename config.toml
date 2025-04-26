@@ -82,8 +82,7 @@ avif_enable = true
 [[extra.index.widgets]]
 type = "header"
 [extra.index.widgets.value]
-title_1 = "王嘉祥"
-title_2 = "Jiaxiang Wang"
+title_1 = "坤坤"
 bio_1 = "专注于科技、音乐等领域<span class=\"inline-word\">跨界创新</span>"
 bio_2 = "分享经验与见解"
 about_url = "https://blog.jiaxiang.wang/about/"
